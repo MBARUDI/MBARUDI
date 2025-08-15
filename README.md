@@ -1,4 +1,4 @@
-## MARCELO BARUDI 👋
+## Eng. Marcelo Barudi 👋
 
 <!--
 **MBARUDI/MBARUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  # 📦  Eng. Marcelo Barudi
+  # 📦  OLÁ
 
 Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de empresa, desenvolvedor de tecnologia. Trabalho na Máximo Brasil Manutenção desde 2007. Sou apaixonado por novas tecnologias e compartilho meu conhecimento através do meu canal no YouTube "[Marcelo Barudi](https://www.youtube.com/@mdbarudi)" e também através do Instagram, com o perfil chamado "[mdbarudi](https://www.instagram.com/mdbarudi/)".
 
