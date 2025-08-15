@@ -84,17 +84,8 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  5. Análise de dados
 
 
-
-
-
-
-
-
-
 <br/>
 <br/>
-
-
 
 ---
 
@@ -131,7 +122,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  |    💻| Msproject |
  |    💻| PowerBI |
 
- </P>
+ </p>
 
  --- 
 
@@ -148,11 +139,11 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  ⛑️ Projetos de Segurança do Trabalho
  ⛑️ Negociação de Contratos </div>
                       
-</P>
+</p>
 
 ---
 
-<P>
+<p>
 
 ## CONHECIMENTOS TÉCNICOS: 
 
@@ -208,7 +199,7 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 👯Gerenciamento de Obras – Câmara de Arquitetos e Consultores (2008)
 
 
----
+
 
 
 ---
@@ -327,7 +318,7 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-----
+
 
 -----
 
