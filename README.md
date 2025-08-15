@@ -54,7 +54,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 
 
 
- ##🧪 DESCRIÇÃO
+ ## 🧪 DESCRIÇÃO
 
 ⚡ Uma breve descrição sobre minhas qualificações
 ⚡ Engenharia Civil, Faculdade de Engenharia São Paulo - (Dez/1997).
@@ -64,28 +64,25 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 ⚡ Analista de Cibersegurança Júnior- CISCO(2024)
  
  
+### ✨ [x] https://github.com/MBARUDI/maximobrasilmanut.git
  
-
- 
- ## Criação de sites
- 
- 1. [x] https://github.com/MBARUDI/maximobrasilmanut.git
- 
- ##✨ **HABILIDADES E COMPETÊNCIAS:**
+ ## ✨ **HABILIDADES E COMPETÊNCIAS:**
  
  1. Engenharia civil
  2. Segurança do Trabalho
  3. Gestão empresarial
  4. Programação
  5. Análise de dados
+ 6. Desenvolvedor FullStack
 
 </p>
 <br/>
-<br/>
+
 
 ---
 
-<p>**`Desenvolvedor FullStack`** :+1:</p>
+
+ 
 
 <p>
  
