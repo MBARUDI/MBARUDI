@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 -----
 
-### Olá, eu sou o Marcelo Barudi 👋
+### 📦 Olá, eu sou o Marcelo Barudi 👋
 
-Engenheiro, gestor de empresa e desenvolvedor de tecnologia, natural de São Paulo. Trabalho na Máximo Brasil Manutenção desde 2007, sou apaixonado por novas tecnologias e compartilho conhecimento no meu canal do YouTube e no Instagram.
+
+Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de empresa, desenvolvedor de tecnologia. Trabalho na Máximo Brasil Manutenção desde 2007. Sou apaixonado por novas tecnologias e compartilho meu conhecimento através do meu canal no YouTube "[Marcelo Barudi](https://www.youtube.com/@mdbarudi)" e também através do Instagram, com o perfil chamado "[mdbarudi](https://www.instagram.com/mdbarudi/)".
 
 -----
 
@@ -39,38 +40,11 @@ Engenheiro, gestor de empresa e desenvolvedor de tecnologia, natural de São Pau
   * **Credly:** [https://www.credly.com/users/marcelo-david-barudi](https://www.credly.com/users/marcelo-david-barudi)
 
 
------
-
-### 📊 Estatísticas do GitHub
 
 
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MBARUDI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBARUDI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
------
-
-
-<P></P>
-##  📦Eng. Marcelo Barudi 👋
-
-Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de empresa, desenvolvedor de tecnologia. Trabalho na Máximo Brasil Manutenção desde 2007. Sou apaixonado por novas tecnologias e compartilho meu conhecimento através do meu canal no YouTube "[Marcelo Barudi](https://www.youtube.com/@mdbarudi)" e também através do Instagram, com o perfil chamado "[mdbarudi](https://www.instagram.com/mdbarudi/)".
 
 
 
@@ -92,8 +66,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511985919330)
  [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBARUDI)
 
- https://www.credly.com/users/marcelo-david-barudi
-https://www.credly.com/earner/dashboard
+
  
  ## About me 
  
@@ -355,6 +328,33 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 />
 
 ----
+
+-----
+
+### 📊 Estatísticas do GitHub
+
+
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MBARUDI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBARUDI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+-----
 
 </div>
   </p>
