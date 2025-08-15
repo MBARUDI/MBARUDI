@@ -212,6 +212,66 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 
 </p>
 
+<section class="mb-4">
+                <h3>💻 Tecnologias</h3>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="p-2">💻 Linux</div>
+                            <div class="p-2">💻 Word</div>
+                            <div class="p-2">💻 Windows</div>
+                            <div class="p-2">💻 Excel</div>
+                            <div class="p-2">💻 Power Point</div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="p-2">💻 AutoCAD</div>
+                            <div class="p-2">💻 Outlook</div>
+                            <div class="p-2">💻 Msproject</div>
+                            <div class="p-2">💻 PowerBI</div>
+                            <div class="p-2">💻 Inteligência Artificial</div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="p-2">💻 Data Science</div>
+                            <div class="p-2">💻 Python</div>
+                            <div class="p-2">💻 Java</div>
+                            <div class="p-2">💻 HTML/CSS</div>
+                            <div class="p-2">💻 JavaScript</div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="p-2">💻 React</div>
+                            <div class="p-2">💻 Segurança de Redes</div>
+                            <div class="p-2">💻 SQL</div>
+                            <div class="p-2">💻 Git</div>
+                            <div class="p-2">💻 GitHub</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="mb-4">
+                <h3>🏙 Atuação Técnica em Engenharia</h3>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="p-2">⛑️ Obra</div>
+                            <div class="p-2">⛑️ Reformas</div>
+                            <div class="p-2">⛑️ Manutenção Predial</div>
+                            <div class="p-2">⛑️ Gerenciamento de obras</div>
+                            <div class="p-2">⛑️ Fiscalização de obras</div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="p-2">⛑️ Laudos Técnicos</div>
+                            <div class="p-2">⛑️ Avaliações Imobiliárias</div>
+                            <div class="p-2">⛑️ Projetos de Engenharia</div>
+                            <div class="p-2">⛑️ Projetos de Segurança do Trabalho</div>
+                            <div class="p-2">⛑️ Negociação de Contratos </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
 
 
 
