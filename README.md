@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p align="center">
 
 
-  Aqui está uma versão melhorada e reorganizada do seu perfil, com um visual mais limpo e profissional, utilizando markdown e ajustando o conteúdo para ser mais direto e fácil de ler.
+
 
 -----
 
