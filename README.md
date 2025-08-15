@@ -45,36 +45,6 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  ## About me 
  
 
-**`Desenvolvedor FullStack`** :+1:
- 
- | Rank | Languages |
- |-----:|-----------|
- | 1| JavaScript|
- | 2| Python |                   
- | 3| SQL |                      
- | 4| Java |
- | 5| React |
- | 6| React |
- 
-
- | Rank | outros |
- |-----:|-----------|
- | 💻| Power Point |
- | 💻| Excel |
- | 💻| Linux |
- | 💻| AutoCAD |
- | 💻| Word |
- | 💻| Node|
- | 💻| Inteligência Artificial |
- | 💻| Windows
- | 💻|Power Point
- | 💻|AutoCAD
- | 💻|Outlook</div>
- | 💻|Msproject
- | 💻|PowerBI</div>
-                        
-                
- 
  - Criação de sites
  
  1. [x] https://github.com/MBARUDI/maximobrasilmanut.git
@@ -233,7 +203,35 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 
 </p>
 
+**`Desenvolvedor FullStack`** :+1:
+ 
+ | Rank | Languages |
+ |-----:|-----------|
+ | 1| JavaScript|
+ | 2| Python |                   
+ | 3| SQL |                      
+ | 4| Java |
+ | 5| React |
+ | 6| PHP |
 
+ 
+ 
+
+ | e | outros |
+ |-----:|-----------|
+ | 💻| Power Point |
+ | 💻| Excel |
+ | 💻| Linux |
+ | 💻| AutoCAD |
+ | 💻| Word |
+ | 💻| Node|
+ | 💻| Inteligência Artificial |
+ | 💻| Windows  |
+ | 💻| Power Point |
+ | 💻| AutoCAD |
+ | 💻| Outlook |
+ | 💻| Msproject |
+ | 💻| PowerBI |
  # ⛑️ Obra
  # ⛑️ Reformas
  # ⛑️ Manutenção Predial
