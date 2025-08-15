@@ -66,11 +66,9 @@ Engenheiro, gestor de empresa e desenvolvedor de tecnologia, natural de São Pau
 
 -----
 
-\<p\>
-Sinta-se à vontade para entrar em contato para colaborações ou para conversar sobre engenharia e tecnologia\!
-\</p\>
 
-   ##  📦Eng. Marcelo Barudi 👋
+<P></P>
+##  📦Eng. Marcelo Barudi 👋
 
 Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de empresa, desenvolvedor de tecnologia. Trabalho na Máximo Brasil Manutenção desde 2007. Sou apaixonado por novas tecnologias e compartilho meu conhecimento através do meu canal no YouTube "[Marcelo Barudi](https://www.youtube.com/@mdbarudi)" e também através do Instagram, com o perfil chamado "[mdbarudi](https://www.instagram.com/mdbarudi/)".
 
@@ -242,6 +240,8 @@ https://www.credly.com/earner/dashboard
 ---
 
 <p>**`Desenvolvedor FullStack`** :+1:</p>
+
+<p>
  
  | Rank | Languages |
  |-----:|-----------|
@@ -272,7 +272,11 @@ https://www.credly.com/earner/dashboard
  |    💻| Msproject |
  |    💻| PowerBI |
 
+ </P>
+
  --- 
+
+ <P>
  
  ⛑️ Obra
  ⛑️ Reformas
@@ -285,11 +289,11 @@ https://www.credly.com/earner/dashboard
  ⛑️ Projetos de Segurança do Trabalho
  ⛑️ Negociação de Contratos </div>
                       
-
+</P>
 
 ---
 
-
+<P>
 
 ## CONHECIMENTOS TÉCNICOS: 
 
@@ -343,6 +347,8 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 👯 Curso de Proteção Respiratória contra Agentes Biológicos – FUNDACENTRO – (2013)
 👯 Curso de Patologia das Fundações – YCON – (2013)
 👯Gerenciamento de Obras – Câmara de Arquitetos e Consultores (2008)
+
+
 ---
 </div>
   </p>
