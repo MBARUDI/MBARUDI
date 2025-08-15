@@ -119,18 +119,18 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 
  --- 
 
- <P>
+
  
- ⛑️ Obra
- ⛑️ Reformas
- ⛑️ Manutenção Predial
- ⛑️ Gerenciamento de obras
- ⛑️ Fiscalização de obras
- ⛑️ Laudos Técnicos
- ⛑️ Avaliações Imobiliárias
- ⛑️ Projetos de Engenharia
- ⛑️ Projetos de Segurança do Trabalho
- ⛑️ Negociação de Contratos </div>
+ <p>⛑️ Obra</p>
+ <p>⛑️ Reformas</p>
+ <p>⛑️ Manutenção Predial</p>
+ <p>⛑️ Gerenciamento de obras</p>
+ <p>⛑️ Fiscalização de obras</p>
+ <p>⛑️ Laudos Técnicos</p>
+ <p>⛑️ Avaliações Imobiliárias</p>
+ <p>⛑️ Projetos de Engenharia</p>
+ <p>⛑️ Projetos de Segurança do Trabalho</p>
+ <p>⛑️ Negociação de Contratos></p>
                       
 </p>
 
@@ -197,8 +197,11 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 
 
 ---
+<br>
 
 ### 💻 Linguagens e Tecnologias
+
+<br>
 <img 
     align="left" 
     alt="HTML"
@@ -312,6 +315,7 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br>
 <br>
 
 
