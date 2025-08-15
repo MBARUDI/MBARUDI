@@ -25,13 +25,13 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 
  ##🧪 DESCRIÇÃO
 
- # Uma breve descrição sobre minhas qualificações
- 
- # Engenharia Civil, Faculdade de Engenharia São Paulo - (Dez/1997).
- # MBA Gestão Empresarial – Pós-Graduação UNIP (2010).
- # ngenharia de Segurança do Trabalho - Pós-Graduação USP/PECE (2014).
- # Técnicas de Transações Imobiliárias – INED (2018).
- # Analista de Cibersegurança Júnior- CISCO(2024)
+ ⚡Uma breve descrição sobre minhas qualificações
+
+⚡Engenharia Civil, Faculdade de Engenharia São Paulo - (Dez/1997).
+⚡ MBA Gestão Empresarial – Pós-Graduação UNIP (2010).
+⚡ ngenharia de Segurança do Trabalho - Pós-Graduação USP/PECE (2014).
+⚡ Técnicas de Transações Imobiliárias – INED (2018).
+⚡Analista de Cibersegurança Júnior- CISCO(2024)
  
  
  
@@ -206,6 +206,8 @@ https://www.credly.com/earner/dashboard
 
 </p>
 
+---
+
 **`Desenvolvedor FullStack`** :+1:
  
  | Rank | Languages |
@@ -238,16 +240,16 @@ https://www.credly.com/earner/dashboard
  |    💻| PowerBI |
 
  
- # ⛑️ Obra
- # ⛑️ Reformas
- # ⛑️ Manutenção Predial
- # ⛑️ Gerenciamento de obras
- # ⛑️ Fiscalização de obras
- # ⛑️ Laudos Técnicos
- # ⛑️ Avaliações Imobiliárias
- # ⛑️ Projetos de Engenharia
- # ⛑️ Projetos de Segurança do Trabalho
- # ⛑️ Negociação de Contratos </div>
+ ⛑️ Obra
+ ⛑️ Reformas
+ ⛑️ Manutenção Predial
+ ⛑️ Gerenciamento de obras
+ ⛑️ Fiscalização de obras
+ ⛑️ Laudos Técnicos
+ ⛑️ Avaliações Imobiliárias
+ ⛑️ Projetos de Engenharia
+ ⛑️ Projetos de Segurança do Trabalho
+ ⛑️ Negociação de Contratos </div>
                       
 
 
@@ -257,58 +259,56 @@ https://www.credly.com/earner/dashboard
 
 ## CONHECIMENTOS TÉCNICOS: 
 
-## 2025
+👯 2025
 
-# 2025  Redes de Computadores – Senai
-# 2025  CCNA 3: Enterprise Networking, Security, and Automation Senai/ CISCO
-# 2025  CCNAv7 Switching, Routing and Wireless Essencial – Senai/ CISCO
-# 2025  Javascript - Senai
-# 2025  Banco de dados para Data Science - Senai
-# 2025  Bootstrap - Senai
-# 2025  Figma - Senai
-# 2025  Power BI - Senai
+👯 2025  Redes de Computadores – Senai
+👯 2025  CCNA 3: Enterprise Networking, Security, and Automation Senai/ CISCO
+👯 2025  CCNAv7 Switching, Routing and Wireless Essencial – Senai/ CISCO
+👯 2025  Javascript - Senai
+👯 2025  Banco de dados para Data Science - Senai
+👯 2025  Bootstrap - Senai
+👯 2025  Figma - Senai
+👯 2025  Power BI - Senai
 
-## 2024
+👯 2024
 
-# 2024  Cibersegurança com Soluções Fortinet – Senai
-# 2024  Cibersegurança com Soluções Fortinet
-# 2024  Java Foundations – Oracle Academy
-# 2024  Programação em Python para Data Science - Senai Ary Torres
-# 2024  Programação em Python - Senai Ary Torres
-# 2024  Introdução à Ciência de Dados - CISCO
-# 2024  Microsoft Power Platform Fundamentals – Pl-900 – Senai Ary Torres
-# 2024 Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900
+👯 2024  Cibersegurança com Soluções Fortinet – Senai
+👯 2024  Cibersegurança com Soluções Fortinet
+👯 2024  Java Foundations – Oracle Academy
+👯 2024  Programação em Python para Data Science - Senai Ary Torres
+👯 2024  Programação em Python - Senai Ary Torres
+👯 2024  Introdução à Ciência de Dados - CISCO
+👯 2024  Microsoft Power Platform Fundamentals – Pl-900 – Senai Ary Torres
+👯 2024 Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900
 Senai Ary Torres
-# 2024  Ferramentas de Gestão de Projetos – SENAI
-# 2024 Segurança de rede  - Cisco
-# 2024 CCNAv7: Introdução às Redes – Cisco
-# 2024 Trilha Profissionalizante do Analista de Cibersegurança Júnior - Cisco
-# 2024 Gestão de ameaças cibernéticas – Cisco
-# 2024 Dispositivos de rede e configuração inicial - Cisco
-# 2024 Segurança de endpoint Senac Largo Treze\CISCO
-# 2024 Fundamentos da inteligência artificial -IBM
+👯 2024  Ferramentas de Gestão de Projetos – SENAI
+👯 2024 Segurança de rede  - Cisco
+👯 2024 CCNAv7: Introdução às Redes – Cisco
+👯 2024 Trilha Profissionalizante do Analista de Cibersegurança Júnior - Cisco
+👯 2024 Gestão de ameaças cibernéticas – Cisco
+👯 2024 Dispositivos de rede e configuração inicial - Cisco
+👯 2024 Segurança de endpoint Senac Largo Treze\CISCO
+👯 2024 Fundamentos da inteligência artificial -IBM
 
-## ANOS ANTERIORES
+👯 ANOS ANTERIORES
 
-# 2023 Formação em Hardware – Senac 2023
-# 2023  Desperte seu poder. Macro conhecimentos de planejamentos de metas e
+👯 2023 Formação em Hardware – Senac 2023
+👯2023  Desperte seu poder. Macro conhecimentos de planejamentos de metas e
 objetivos. IBC.
-# 2019: Avaliações Imobiliárias-PROECCI/ CRECI.
-# 2018: Perito Judicial - CRECI
-# 2017: Climate Action: Solutions for a Changing Planet – SDGacademy – (2017/2018).
-# 2016: Programa de Capacitação em Energias Renováveis – ONUDI – Universidad D
+👯 2019: Avaliações Imobiliárias-PROECCI/ CRECI.
+👯 2018: Perito Judicial - CRECI
+👯 2017: Climate Action: Solutions for a Changing Planet – SDGacademy – (2017/2018).
+👯 2016: Programa de Capacitação em Energias Renováveis – ONUDI – Universidad D
 Salamanca/ Politécnica.
-# 2015: Inclusão das Pessoas com Deficiência no Mercado de Trabalho: Prevenção,
+👯 2015: Inclusão das Pessoas com Deficiência no Mercado de Trabalho: Prevenção,
 Segurança e Saúde no Trabalho – FUNDACENTRO,
-# Higiene Ocupacional – FUNDACENTRO,
-# Didática para facilitadores de aprendizagem em Segurança e Saúde- FUNDACENTRO,
-# O Regime Regulatório Brasileiro de Segurança e Saúde no Trabalho e a Gestão dos
-# Riscos Ocupacionais - FUNDACENTRO – (2014)
-# Curso de Proteção Respiratória contra Agentes Biológicos – FUNDACENTRO – (2013)
-# Curso de Patologia das Fundações – YCON – (2013)
-# Gerenciamento de Obras – Câmara de Arquitetos e Consultores (2008),INFORMÁTICA:
-
-.
+👯 Higiene Ocupacional – FUNDACENTRO,
+👯 Didática para facilitadores de aprendizagem em Segurança e Saúde- FUNDACENTRO,
+👯 O Regime Regulatório Brasileiro de Segurança e Saúde no Trabalho e a Gestão dos
+👯 Riscos Ocupacionais - FUNDACENTRO – (2014)
+👯 Curso de Proteção Respiratória contra Agentes Biológicos – FUNDACENTRO – (2013)
+👯 Curso de Patologia das Fundações – YCON – (2013)
+👯Gerenciamento de Obras – Câmara de Arquitetos e Consultores (2008)
 
 
 
