@@ -57,7 +57,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  | 6| React |
  
 
- | Rank | Languages |
+ | Rank | outros |
  |-----:|-----------|
  | 💻| Power Point |
  | 💻| Excel |
@@ -66,14 +66,12 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  | 💻| Word |
  | 💻| Node|
  | 💻| Inteligência Artificial |
-
-
-💻Windows
-💻Power Point
-💻AutoCAD
-💻Outlook</div>
-💻 Msproject
-💻 PowerBI</div>
+ | 💻| Windows
+ | 💻|Power Point
+ | 💻|AutoCAD
+ | 💻|Outlook</div>
+ | 💻|Msproject
+ | 💻|PowerBI</div>
                         
                 
  
