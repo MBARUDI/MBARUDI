@@ -219,19 +219,21 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 
  | e | outros |
  |-----:|-----------|
- | 💻| Power Point |
- | 💻| Excel |
- | 💻| Linux |
- | 💻| AutoCAD |
- | 💻| Word |
- | 💻| Node|
- | 💻| Inteligência Artificial |
- | 💻| Windows  |
- | 💻| Power Point |
- | 💻| AutoCAD |
- | 💻| Outlook |
- | 💻| Msproject |
- | 💻| PowerBI |
+ |    💻| Power Point |
+ |    💻| Excel |
+ |    💻| Linux |
+ |    💻| AutoCAD |
+ |    💻| Word |
+ |    💻| Node|
+ |    💻| Inteligência Artificial |
+ |    💻| Windows  |
+ |    💻| Power Point |
+ |    💻| AutoCAD |
+ |    💻| Outlook |
+ |    💻| Msproject |
+ |    💻| PowerBI |
+
+ 
  # ⛑️ Obra
  # ⛑️ Reformas
  # ⛑️ Manutenção Predial
