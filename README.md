@@ -53,33 +53,28 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  | 2| Python |                   
  | 3| SQL |                      
  | 4| Java |
- | 5| Linux |
+ | 5| React |
  | 6| React |
  
 
  | Rank | Languages |
  |-----:|-----------|
- 
- | 7| Power Point |
- | 8| Excel |
- | 9| Word |
- | 10| AutoCAD |
- | 11| Word |
- | 12| Node|
- | 13| Inteligência Artificial |
+ | 💻| Power Point |
+ | 💻| Excel |
+ | 💻| Linux |
+ | 💻| AutoCAD |
+ | 💻| Word |
+ | 💻| Node|
+ | 💻| Inteligência Artificial |
 
 
-                            <div class="p-2">💻 Windows</div>
-                            <div class="p-2">💻 </div>
-                            <div class="p-2">💻 Power Point</div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="p-2">💻 AutoCAD</div>
-                            <div class="p-2">💻 Outlook</div>
-                            <div class="p-2">💻 Msproject</div>
-                            <div class="p-2">💻 PowerBI</div>
-                            <div class="p-2">💻 </div>
-                        </div>
+💻Windows
+💻Power Point
+💻AutoCAD
+💻Outlook</div>
+💻 Msproject
+💻 PowerBI</div>
+                        
                 
  
  - Criação de sites
