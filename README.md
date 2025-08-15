@@ -312,6 +312,7 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br>
 
 
 -----
@@ -342,7 +343,7 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 -----
 
 </div>
-  </p>
+
 
 
 
