@@ -137,10 +137,11 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 ---
 
 <p>
+<div> 
 
 ## CONHECIMENTOS TÉCNICOS: 
 
-👯 2025
+### 👯 2025
 
 👯 2025  Redes de Computadores – Senai
 👯 2025  CCNA 3: Enterprise Networking, Security, and Automation Senai/ CISCO
@@ -151,7 +152,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 👯 2025  Figma - Senai
 👯 2025  Power BI - Senai
 
-👯 2024
+### 👯 2024
 
 👯 2024  Cibersegurança com Soluções Fortinet – Senai
 👯 2024  Cibersegurança com Soluções Fortinet
@@ -171,7 +172,7 @@ Senai Ary Torres
 👯 2024 Segurança de endpoint Senac Largo Treze\CISCO
 👯 2024 Fundamentos da inteligência artificial -IBM
 
-👯 ANOS ANTERIORES
+### 👯 ANOS ANTERIORES
 
 👯 2023 Formação em Hardware – Senac 2023
 👯2023  Desperte seu poder. Macro conhecimentos de planejamentos de metas e
@@ -192,7 +193,7 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 👯Gerenciamento de Obras – Câmara de Arquitetos e Consultores (2008)
 
 
-
+</div>
 
 
 ---
