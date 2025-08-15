@@ -72,10 +72,26 @@ Engenheiro, gestor de empresa e desenvolvedor de tecnologia, natural de São Pau
 
 ### 📊 Estatísticas do GitHub
 
-\<p\>
-\<img align="left" alt="GitHub Stats" src="[https://github-readme-stats.vercel.app/api?username=MBARUDI\&show\_icons=true\&theme=tokyonight\&include\_all\_commits=true\&locale=pt-br](https://github-readme-stats.vercel.app/api?username=MBARUDI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)" /\>
-\<img align="left" alt="Top Languages" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MBARUDI\&theme=tokyonight\&layout=compact\&custom\_title=Tecnologias\&langs\_count=9](https://github-readme-stats.vercel.app/api/top-langs/?username=MBARUDI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)" /\>
-\</p\>
+
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MBARUDI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBARUDI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 -----
 
@@ -252,25 +268,7 @@ https://www.credly.com/earner/dashboard
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MBARUDI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBARUDI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 ---
 
