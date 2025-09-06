@@ -74,6 +74,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  4. Programação
  5. Análise de dados
  6. Desenvolvedor FullStack
+ 7. Treinamentos Empresariais
 
 </p>
 <br/>
