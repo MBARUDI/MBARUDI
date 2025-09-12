@@ -1,8 +1,7 @@
 <div align="center">
   <p align="center">
     <img src="https://github.com/user-attachments/assets/3314cb05-3a5c-4d66-94c9-2e245703a4d3" width="30%" alt="Descrição da imagem" />
-  </p>
-</div>
+ 
 <!--
 **MBARUDI/MBARUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -348,8 +347,10 @@ Segurança e Saúde no Trabalho – FUNDACENTRO,
 
 
 
+ </p>
 
 </div>
+
 
 
 
