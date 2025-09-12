@@ -1,4 +1,5 @@
 
+<img width="1500" height="1875" alt="vecsy_arte" src="https://github.com/user-attachments/assets/f88af8b0-f315-4ca8-b12d-1547787b129c" />
 
 <!--
 **MBARUDI/MBARUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
