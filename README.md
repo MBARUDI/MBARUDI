@@ -1,5 +1,7 @@
 
-<img width="1500" height="1875" alt="vecsy_arte" src="https://github.com/user-attachments/assets/f88af8b0-f315-4ca8-b12d-1547787b129c" />
+<img width="300" height="175" alt="vecsy_arte" src="https://github.com/user-attachments/assets/f88af8b0-f315-4ca8-b12d-1547787b129c" />
+![WhatsApp Image 2023-08-24 at 21 25 09](https://github.com/user-attachments/assets/cf3a4a7e-62e2-466f-8942-3ca55343e16b)
+
 
 <!--
 **MBARUDI/MBARUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
