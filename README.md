@@ -120,7 +120,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
  </p>
 
  --- 
-
+ <img width="30%" alt="image" src="https://github.com/user-attachments/assets/dd1efc45-0203-46b5-aa18-3dcf17358f62" />
 
  
  <p>⛑️ Obra</p>
