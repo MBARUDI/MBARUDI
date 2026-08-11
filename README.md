@@ -60,7 +60,7 @@ Me chamo Marcelo Barudi, sou natural do São Paulo. Sou engenheiro, gestor de em
 ⚡ Uma breve descrição sobre minhas qualificações
 ⚡ Engenharia Civil, Faculdade de Engenharia São Paulo - (Dez/1997).
 ⚡ MBA Gestão Empresarial – Pós-Graduação UNIP (2010).
-⚡ ngenharia de Segurança do Trabalho - Pós-Graduação USP/PECE (2014).
+⚡ Engenharia de Segurança do Trabalho - Pós-Graduação USP/PECE (2014).
 ⚡ Técnicas de Transações Imobiliárias – INED (2018).
 ⚡ Analista de Cibersegurança Júnior- CISCO(2024)
  
